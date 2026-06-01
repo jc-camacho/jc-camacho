@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect width="1200" height="200"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="200" fill="url(#bg)"/>
+
+  <!-- Wave shape at bottom -->
+  <path d="M0,140 C150,180 300,100 450,140 C600,180 750,100 900,140 C1050,180 1150,120 1200,140 L1200,200 L0,200 Z" fill="#16213e" opacity="0.6"/>
+  <path d="M0,160 C200,130 400,175 600,155 C800,135 1000,170 1200,155 L1200,200 L0,200 Z" fill="#0f3460" opacity="0.5"/>
+
+  <!-- Name -->
+  <text x="600" y="85" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">Jose Carlos Camacho</text>
+
+  <!-- Description -->
+  <text x="600" y="118" font-family="'Segoe UI', Arial, sans-serif" font-size="17" fill="#a0c4ff" text-anchor="middle" letter-spacing="0.5">Software Engineer &amp; Tech Lead</text>
+</svg>

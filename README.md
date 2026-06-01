@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Jose%20Carlos%20Camacho&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%26%20Tech%20Lead&descAlignY=55&descColor=a0c4ff)
+<img src="./assets/header.svg" width="100%" alt="Jose Carlos Camacho — Software Engineer & Tech Lead" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A0C4FF&center=true&vCenter=true&width=600&lines=Backend+Platform+Engineer;AI+%26+LLM+Integration+Specialist;Test+Automation+Infrastructure;Tech+Lead+%40+NICE+CXone;MSc+in+Data+Science+%26+AI)](https://git.io/typing-svg)
 
@@ -73,15 +73,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jc-camacho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-camacho&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jc-camacho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-camacho&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 <br/>
 
 <div align="center">
 
-![Snake animation](https://github.com/jc-camacho/jc-camacho/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/jc-camacho/jc-camacho/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
